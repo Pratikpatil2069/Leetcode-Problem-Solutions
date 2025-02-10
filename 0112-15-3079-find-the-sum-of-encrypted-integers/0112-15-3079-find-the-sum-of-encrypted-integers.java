@@ -4,8 +4,8 @@ class Solution {
         int arr[] = new int[nums.length];
         for (int i = 0; i < nums.length; i++) {
             int num = nums[i];
-            int count = 0;
             int max = 0;
+            int count = 0;
             while (num != 0) {
                 int re = num % 10;
                 count++;
@@ -16,7 +16,6 @@ class Solution {
             for (int j = 0; j < count; j++) {
                 n = n * 10 + max;
             }
-
             arr[i] = n;
         }
         for (int i = 0; i < arr.length; i++) {

@@ -1,6 +1,6 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
-        Arrays.sort(nums);
+       
         HashMap<Integer,Integer>map=new HashMap<>();
         int arr[]=new int[2];
     

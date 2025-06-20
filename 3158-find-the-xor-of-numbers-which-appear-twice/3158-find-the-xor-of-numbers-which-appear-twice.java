@@ -1,16 +1,21 @@
+import java.util.*;
+
 class Solution {
     public int duplicateNumbersXOR(int[] nums) {
-        HashMap<Integer,Integer>map=new HashMap<>();
-        for(int i=0;i<nums.length;i++){
-            map.put(nums[i],map.getOrDefault(nums[i],0)+1);
-        }
-        Set<Integer>set=map.keySet();
-        int xor=0;
-        for(Integer key:set){
-            if(map.get(key)==2){
-                xor=key^xor;
+        Set<Integer> seen = new HashSet<>();
+        Set<Integer> duplicates = new HashSet<>();
+
+        for (int num : nums) {
+            if (!seen.add(num)) { // if already in 'seen', then it's a duplicate
+                duplicates.add(num);
             }
         }
+
+        int xor = 0;
+        for (int num : duplicates) {
+            xor ^= num;
+        }
+
         return xor;
     }
 }

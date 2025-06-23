@@ -18,7 +18,6 @@ class Solution {
         for (int i = 0; i < max; i++) {
             count = 0;
             for (int j = 0; j < arr.length; j++) {
-                // ✅ FIX: Access bits from the right (least significant bit)
                 int bitIndexFromRight = arr[j].length() - 1 - i;
                 if (bitIndexFromRight >= 0 && arr[j].charAt(bitIndexFromRight) == '1') {
                     count++;
@@ -34,7 +33,7 @@ class Solution {
 
         StringBuilder sb = new StringBuilder();
         sb.append(res);
-        sb.reverse(); // ✅ FIX: Reverse to get the correct binary order
+        sb.reverse(); 
         String s = sb.toString();
 
         return Integer.parseInt(s, 2);

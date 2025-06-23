@@ -1,20 +1,15 @@
 class Solution {
     public int findKOr(int[] nums, int k) {
         String arr[] = new String[nums.length];
+          int max = 0;
         for (int i = 0; i < nums.length; i++) {
             arr[i] = Integer.toBinaryString(nums[i]);
-        }
-
-        int max = 0;
-        for (int i = 0; i < arr.length; i++) {
-            if (max < arr[i].length()) {
+             if (max < arr[i].length()) {
                 max = arr[i].length();
             }
         }
-
         String res = "";
         int count = 0;
-
         for (int i = 0; i < max; i++) {
             count = 0;
             for (int j = 0; j < arr.length; j++) {

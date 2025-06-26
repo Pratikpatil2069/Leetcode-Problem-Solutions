@@ -1,15 +1,10 @@
 class Solution {
     public char findTheDifference(String s, String t) {
-        int xor = 0;
-
+        int xor = t.charAt(t.length() - 1);  
         for (int i = 0; i < s.length(); i++) {
-            xor ^= s.charAt(i);
+            xor ^= s.charAt(i) ^ t.charAt(i);
         }
 
-        for (int i = 0; i < t.length(); i++) {
-            xor ^= t.charAt(i);
-        }
-
-        return  (char)xor;
+        return (char) xor;
     }
 }

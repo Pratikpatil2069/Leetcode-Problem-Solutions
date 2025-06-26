@@ -4,7 +4,6 @@ class Solution {
         for (int i = 0; i < s.length(); i++) {
             xor ^= s.charAt(i) ^ t.charAt(i);
         }
-
         return (char) xor;
     }
 }

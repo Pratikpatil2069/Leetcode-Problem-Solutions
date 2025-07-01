@@ -14,7 +14,7 @@ public class Solution {
         while (headA != null) {
             ListNode temp=headB;
             while (temp != null) {
-                if (System.identityHashCode(headA) == System.identityHashCode(temp)) {
+                if (headA==temp) {
                     return headA;
                 }
                 temp = temp.next;

@@ -29,7 +29,7 @@ class Solution {
             temp=ptr.next;
             ind++;
         }
-        if(list.size()==0){
+        if(list.size()<=1){
             arr[0]=-1;
             arr[1]=-1;
             return arr;

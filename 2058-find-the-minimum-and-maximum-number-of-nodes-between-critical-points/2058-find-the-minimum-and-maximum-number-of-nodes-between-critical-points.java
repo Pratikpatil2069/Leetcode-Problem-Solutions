@@ -20,26 +20,36 @@ class Solution {
         ListNode ptr=head.next;
         ListNode temp=ptr.next;
         int ind=1;
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
+        boolean flag=true;
+        boolean flag1=true;
+        int first=0;
+        int indFirst=0;
         while(temp!=null){
             if((head.val<ptr.val && temp.val<ptr.val) || (head.val>ptr.val && temp.val>ptr.val) ){
-                list.add(ind);
+                if(flag){
+                 first=ind;
+                 indFirst=ind;
+                flag=false;
+                }else{
+                    min=Math.min(min,ind-first);
+                    first=ind;
+                    flag1=false;
+                }
             }
             head=head.next;
             ptr=head.next;
             temp=ptr.next;
             ind++;
         }
-        if(list.size()<=1){
+        if((flag!=flag1)|| flag){
             arr[0]=-1;
             arr[1]=-1;
             return arr;
         }
-        arr[1]=list.get(list.size()-1)-list.get(0);
-        int min=Integer.MAX_VALUE;
-        for(int i=0;i<list.size()-1;i++){
-            min=Math.min(min,(list.get(i+1)-list.get(i)));
-        }
         arr[0]=min;
+        arr[1]=first-indFirst;
         return arr;
     }
 }

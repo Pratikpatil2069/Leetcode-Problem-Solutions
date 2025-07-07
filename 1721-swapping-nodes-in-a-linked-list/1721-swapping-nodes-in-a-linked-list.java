@@ -25,8 +25,14 @@ class Solution {
         }
         temp=head;
          ind=ind-k;
+         if(ind==0){
+         int num=ptr.val;
+        ptr.val=temp.val;
+        temp.val=num;
+        return head; 
+         }
         while(temp!=null){
-             ind--;
+            ind--;
             if(ind==0){
                 break;
             }

@@ -21,7 +21,6 @@ class Solution {
         ListNode temp=ptr.next;
         int ind=1;
         int min=Integer.MAX_VALUE;
-        int max=Integer.MIN_VALUE;
         boolean flag=true;
         boolean flag1=true;
         int first=0;

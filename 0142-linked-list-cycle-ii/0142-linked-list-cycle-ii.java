@@ -9,19 +9,20 @@
  *     }
  * }
  */
+
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if(head==null){
+        if (head == null) {
             return null;
         }
-        Set<Integer>set=new HashSet<>();
-        ListNode temp=head;
-        while(temp.next!=null){
-            set.add(temp.val);
-            if(set.contains(temp.next.val)){
-                return temp.next;
+        Set<ListNode> set = new HashSet<>();
+        ListNode temp = head;
+        while (temp != null) {
+            if (set.contains(temp)) {
+                return temp; 
             }
-            temp=temp.next;
+            set.add(temp);
+            temp = temp.next;
         }
         return null;
     }

@@ -21,6 +21,9 @@ class Solution {
         }
         temp=head;
         count=count-n;
+        if(count==0){
+            return head.next;
+        }
         while(count>1){
             temp=temp.next;
             count--;

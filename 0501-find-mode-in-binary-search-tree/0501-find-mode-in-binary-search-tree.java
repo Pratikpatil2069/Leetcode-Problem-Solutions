@@ -14,34 +14,31 @@
  * }
  */
 class Solution {
+    int maxCount=0;
     public int[] findMode(TreeNode root) {
         HashMap<Integer,Integer>map=new HashMap<>();
-        fun(root,map);
-        int max=Integer.MIN_VALUE;
-        Set<Integer>set=map.keySet();
-        for(int key:set){
-            if(map.get(key)>max){
-                max=map.get(key);
-            }
-        }
         ArrayList<Integer>list=new ArrayList<>();
-       for(int key:set){
-        if(map.get(key)==max){
-            list.add(key);
-        }
-       }
+        fun(root,map,list);
        int arr[]=new int[list.size()];
        for(int i=0;i<arr.length;i++){
         arr[i]=list.get(i);
        }
         return arr;
     }
-    private void fun(TreeNode root,HashMap<Integer,Integer> map){
+    private void fun(TreeNode root,HashMap<Integer,Integer> map,ArrayList<Integer>list){
         if(root==null){
             return;
         }
-        fun(root.left,map);
-        map.put(root.val,map.getOrDefault(root.val,0)+1);
-        fun(root.right,map);
+        fun(root.left,map,list);
+        int count=map.getOrDefault(root.val,0)+1;
+        map.put(root.val,count);
+        if(count>maxCount){
+            maxCount=count;
+            list.clear();
+            list.add(root.val);
+        }else if(count==maxCount){
+            list.add(root.val);
+        }
+        fun(root.right,map,list);
     }
 }

@@ -13,9 +13,6 @@ class Solution {
                 return 0;
             }
             num=num*10+re;
-            
-       
-        
             x=x/10;
         }
         if(flag){

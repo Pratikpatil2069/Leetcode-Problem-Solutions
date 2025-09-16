@@ -1,24 +1,22 @@
 class Solution {
     public int reverse(int x) {
-        boolean flag=false;
-        if(x<0){
-            x=x*(-1);
-            flag=true;
-        }
-        int num=0;
-        while(x>0){
-            int re=x%10;
-            if (num > Integer.MAX_VALUE / 10 || 
-               (num == Integer.MAX_VALUE / 10 && re > 7)) {
+        int rev = 0;
+        
+        while (x != 0) {
+            int digit = x % 10;
+            x /= 10;
+            
+            // Check overflow before multiplying
+            if (rev > Integer.MAX_VALUE / 10 || (rev == Integer.MAX_VALUE / 10 && digit > 7)) {
                 return 0;
             }
-            num=num*10+re;
-            x=x/10;
+            if (rev < Integer.MIN_VALUE / 10 || (rev == Integer.MIN_VALUE / 10 && digit < -8)) {
+                return 0;
+            }
+            
+            rev = rev * 10 + digit;
         }
-        if(flag){
-            num=num*(-1);
-        }
-       
-        return num;
+        
+        return rev;
     }
 }

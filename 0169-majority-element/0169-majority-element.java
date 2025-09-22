@@ -4,8 +4,7 @@ class Solution {
         for(int i=0;i<nums.length;i++){
             map.put(nums[i],map.getOrDefault(nums[i],0)+1);
         }
-        Set<Integer> set=map.keySet();
-        for(Integer key:set){
+        for(Integer key:map.keySet()){
             if(map.get(key)>nums.length/2){
                 return key;
             }

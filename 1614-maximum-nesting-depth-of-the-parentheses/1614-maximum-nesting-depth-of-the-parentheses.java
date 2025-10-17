@@ -6,8 +6,8 @@ class Solution {
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             if(ch=='('){
-                if(!st.isEmpty()){
-                    count=0;
+                if(count>0){
+                    count--;
                 }
                 st.push(s.charAt(i));
             }

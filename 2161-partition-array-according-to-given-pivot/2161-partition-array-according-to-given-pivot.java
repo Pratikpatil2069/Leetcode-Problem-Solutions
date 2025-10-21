@@ -12,9 +12,8 @@ class Solution {
                 count++;
             }
         }
-        while(count>0){
+        for(int i=0;i<count;i++){
             nums[ind++]=pivot;
-            count--;
         }
         for(int i=0;i<list.size();i++){
             nums[ind++]=list.get(i);

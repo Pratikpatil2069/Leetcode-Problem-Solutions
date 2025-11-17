@@ -4,8 +4,7 @@ class Solution {
         int left=0, right=nums.length-1;
         int max=0;
         while(left<right){
-            int sum=nums[left]+nums[right];
-            max=Math.max(max,sum);
+            max=Math.max(max,nums[left]+nums[right]);
             left++;
             right--;
         }

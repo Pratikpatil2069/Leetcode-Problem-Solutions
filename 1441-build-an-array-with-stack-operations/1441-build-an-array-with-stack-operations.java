@@ -1,7 +1,7 @@
 class Solution {
     public List<String> buildArray(int[] target, int n) {
         List<String>list=new ArrayList<>();
-        int first=1;
+        int first=0;
         int last=0;
         int ind=0;
         for(int i=1;i<=n;i++){

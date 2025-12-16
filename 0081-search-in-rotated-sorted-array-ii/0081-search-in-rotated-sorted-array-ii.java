@@ -1,12 +1,5 @@
 class Solution {
     public boolean search(int[] nums, int target) {
-        if(nums.length==1){
-            if(nums[0]==target){
-                return true;
-            }else{
-                return false;
-            }
-        }
         int left=0;
         int right=nums.length-1;
         while(left<=right){
@@ -14,7 +7,7 @@ class Solution {
             if(nums[mid]==target){
                 return true;
             }
-            if(nums[mid]==nums[left] && nums[mid]==nums[right]){
+            if(nums[left]==nums[mid] && nums[right]==nums[mid]){
                 left++;
                 right--;
             }else if(nums[left]<=nums[mid]){

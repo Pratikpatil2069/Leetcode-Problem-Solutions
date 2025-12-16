@@ -1,6 +1,5 @@
 class Solution {
     public int findMin(int[] nums) {
-        int min =Integer.MAX_VALUE;
         int left=0;
         int right=nums.length-1;
         while(left<right){
@@ -12,6 +11,5 @@ class Solution {
             }
         }
         return nums[left];
-        
     }
 }

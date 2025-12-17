@@ -5,7 +5,7 @@ class Solution {
         }
         int left = 0;
         int right = nums.length - 1;
-        while (left < right) {
+        while (left <= right) {
             int mid = left + (right - left) / 2;
             if (mid == 0 || mid == nums.length - 1) {
                 if (mid == 0) {
@@ -22,15 +22,15 @@ class Solution {
             }
             if (mid % 2 == 0) {
                 if (nums[mid] == nums[mid - 1]) {
-                    right = mid;
+                    right = mid-1;
                 } else {
-                    left = mid;
+                    left = mid+1;
                 }
             } else {
                  if (nums[mid] == nums[mid - 1]) {
-                    left = mid;
+                    left = mid+1;
                 } else {
-                    right = mid;
+                    right = mid-1;
                 }
             }
         }

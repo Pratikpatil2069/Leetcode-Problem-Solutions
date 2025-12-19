@@ -5,7 +5,7 @@ class Solution {
         for (int num : nums) {
             right = Math.max(num, right);
         }
-        int ans = right;
+    
         while (left <= right) {
             int mid = left + (right - left) / 2;
             int sum = 0;
@@ -13,13 +13,12 @@ class Solution {
                 sum = sum + ((num / mid) + ((num % mid == 0) ? 0 : 1));
             }
             if (sum <= threshold) {
-                ans = mid;
                 right = mid - 1;
             } else {
                 left = mid + 1;
             }
         }
-        return ans;
+        return left;
     }
 
    

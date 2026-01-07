@@ -1,18 +1,14 @@
 class Solution {
     public boolean doesAliceWin(String s) {
         String str="aeiou";
-        int count=0;
+        boolean flag=false; 
         for(int i=0;i<s.length();i++){
             String ch=s.substring(i,i+1);
-            if(s.contains(ch)){
-                count++;
+            if(str.contains(ch)){
+                return true;
             }
         }
-        if(count%2==1){
-            return true;
-        }else{
-            return false;
-        }
+       return false;
         
     }
 }

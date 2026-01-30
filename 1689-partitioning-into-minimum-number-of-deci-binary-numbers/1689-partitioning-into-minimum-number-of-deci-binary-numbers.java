@@ -1,9 +1,11 @@
 class Solution {
     public int minPartitions(String n) {
-       int max=0;
-       for(int i=0;i<n.length();i++){
-            max=Math.max(max,n.charAt(i)-'0');
-       }
-       return max;
+        
+        int maxDig = 0;
+        for (char ch : n.toCharArray()) {
+            maxDig = Math.max(maxDig, ch - '0');
+        }
+
+        return maxDig;
     }
 }

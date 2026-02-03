@@ -12,17 +12,15 @@
 
 public class Solution {
     public ListNode detectCycle(ListNode head) {
-        if (head == null) {
-            return null;
-        }
-        Set<ListNode> set = new HashSet<>();
-        ListNode temp = head;
-        while (temp != null) {
-            if (set.contains(temp)) {
-                return temp; 
+        HashSet<ListNode>set=new HashSet<>();
+        ListNode temp=head;
+        while(temp!=null){
+            if(set.contains(temp)){
+                return temp;
+            }else{
+                set.add(temp);
             }
-            set.add(temp);
-            temp = temp.next;
+            temp=temp.next;
         }
         return null;
     }

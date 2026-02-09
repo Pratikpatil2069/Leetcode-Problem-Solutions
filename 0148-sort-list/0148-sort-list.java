@@ -10,19 +10,20 @@
  */
 class Solution {
     public ListNode sortList(ListNode head) {
-        List<Integer>list=new ArrayList<>();
+        ArrayList list=new ArrayList<>();
         ListNode temp=head;
+        ListNode dummy=new ListNode(-1);
         while(temp!=null){
             list.add(temp.val);
             temp=temp.next;
         }
-        temp=head;
-        int i=0;
         Collections.sort(list);
-        while(temp!=null){
-            temp.val=list.get(i++);
+        temp=dummy;
+        for(int i=0;i<list.size();i++){
+            temp.next=new ListNode((int)list.get(i));
             temp=temp.next;
         }
-        return head;
+        return dummy.next;
+        
     }
 }

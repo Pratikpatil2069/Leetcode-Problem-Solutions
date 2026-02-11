@@ -10,37 +10,43 @@
  */
 class Solution {
     public ListNode reverseKGroup(ListNode head, int k) {
-        if(head.next==null || k==1){
+        if (head == null || head.next == null || k == 1) {
             return head;
         }
-        ListNode dummy=new ListNode(0);
-        dummy.next=head;
-        ListNode temp=head;
-        ListNode ptr=dummy;
-        while(hasNext(temp,k)){
-            ListNode prev=null;
-            ListNode next=null;
-            ListNode groupStart=temp;
-            for(int i=0;i<k;i++){
-                next=temp.next;
-                temp.next=prev;
-                prev=temp;
-                temp=next;
+        ListNode start = head;
+        ListNode end = head;
+        boolean flag=true;
+        ListNode prevGroup=null;
+        int count = k;
+        while (end != null) {
+
+            if (count > 0) {
+                end = end.next;
+                count--;
             }
-           ptr.next=prev;
-           groupStart.next=temp;
-           ptr=groupStart;
-            
+
+            if (count == 0) {
+                ListNode temp = start;
+                ListNode ptr = end;
+                while (temp != end) {
+                    ListNode temp1 = temp.next;
+                    temp.next = ptr;
+                    ptr = temp;
+                    temp = temp1;
+                }
+                if(flag){
+                    head=ptr;
+                    flag=false;
+                }
+                if(prevGroup!=null){
+                    prevGroup.next=ptr;
+                }
+                prevGroup=start;
+                start=end;
+                count=k;
+            }
+
         }
-        return dummy.next;
+        return head;
     }
-        private boolean hasNext(ListNode node,int k){
-         int count=0;
-        while(node!=null && count<k){
-            node=node.next;
-            count++;
-        }
-      return count==k;
-    }
-    
 }

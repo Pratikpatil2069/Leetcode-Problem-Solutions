@@ -1,6 +1,5 @@
 class Solution {
     public String maximumXor(String s, String t) {
-        long num=Long.parseLong(t,2);
         int countOfOnes=0;
          for (int i = 0; i < t.length(); i++) {
             if (t.charAt(i) == '1') {

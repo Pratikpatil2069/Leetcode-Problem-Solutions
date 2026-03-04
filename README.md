@@ -24,6 +24,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0008-string-to-integer-atoi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |

@@ -11,6 +11,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -43,6 +44,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -51,4 +53,5 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 <!---LeetCode Topics End-->

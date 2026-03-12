@@ -20,6 +20,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +62,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -77,6 +79,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -86,6 +89,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -98,4 +102,5 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 <!---LeetCode Topics End-->

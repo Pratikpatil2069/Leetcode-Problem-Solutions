@@ -58,6 +58,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -71,6 +72,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -116,4 +118,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->

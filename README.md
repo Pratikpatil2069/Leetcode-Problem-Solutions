@@ -62,6 +62,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0136-single-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0136-single-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -152,6 +153,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0136-single-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0136-single-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |

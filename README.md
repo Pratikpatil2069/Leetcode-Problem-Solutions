@@ -55,6 +55,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +82,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Hash Table
@@ -178,5 +180,6 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 <!---LeetCode Topics End-->

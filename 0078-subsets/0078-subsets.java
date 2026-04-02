@@ -5,12 +5,11 @@ class Solution {
         for(int num:nums){
             int size=list.size();
             for(int i=0;i<size;i++){
-                List<Integer>list1=new ArrayList<>(list.get(i));
-                list1.add(num);
-                list.add(list1);
-            }
+                List<Integer>subList=new ArrayList<>(list.get(i));
+                subList.add(num);
+                list.add(subList);
 
-            
+            }
         }
         return list;
     }

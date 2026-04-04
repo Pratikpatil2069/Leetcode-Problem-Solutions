@@ -202,6 +202,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
+| [3827-count-monobit-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3827-count-monobit-integers/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -210,4 +211,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3827-count-monobit-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->

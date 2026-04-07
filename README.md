@@ -92,6 +92,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Hash Table
@@ -201,6 +202,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3827-count-monobit-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3827-count-monobit-integers/) | Easy |
 ## Brainteaser
@@ -214,5 +216,6 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3827-count-monobit-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3827-count-monobit-integers/) | Easy |
 <!---LeetCode Topics End-->

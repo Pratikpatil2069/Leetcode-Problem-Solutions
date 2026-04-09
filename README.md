@@ -87,6 +87,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -152,6 +153,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
@@ -198,6 +200,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2220-minimum-bit-flips-to-convert-number/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |

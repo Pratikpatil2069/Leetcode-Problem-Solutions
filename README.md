@@ -42,6 +42,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Linked List
@@ -136,6 +137,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -194,6 +196,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |

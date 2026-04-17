@@ -97,6 +97,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
@@ -150,6 +151,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -175,12 +177,14 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -249,5 +253,6 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 <!---LeetCode Topics End-->

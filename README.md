@@ -41,6 +41,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0005-longest-palindromic-substring](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0008-string-to-integer-atoi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0008-string-to-integer-atoi/) | Medium |
+| [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -58,6 +59,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -113,6 +115,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
+| [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |

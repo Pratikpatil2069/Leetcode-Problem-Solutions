@@ -17,9 +17,9 @@ class Solution {
             int current = map.get(s.charAt(i));
 
             if (i + 1 < s.length() && map.get(s.charAt(i)) < map.get(s.charAt(i + 1))) {
-                sum -= current; // subtract if next is larger
+                sum -= current; 
             } else {
-                sum += current; // otherwise add
+                sum += current; 
             }
         }
 

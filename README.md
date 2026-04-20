@@ -29,6 +29,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +125,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -263,6 +265,11 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 <!---LeetCode Topics End-->

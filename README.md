@@ -77,6 +77,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0001-two-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -147,6 +148,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 ## Dynamic Programming
@@ -189,6 +191,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |

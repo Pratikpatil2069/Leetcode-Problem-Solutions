@@ -106,6 +106,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
@@ -185,6 +186,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -203,6 +205,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 ## Matrix
@@ -288,6 +291,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |

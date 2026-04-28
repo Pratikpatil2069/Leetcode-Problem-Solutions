@@ -1,15 +1,7 @@
 class Solution {
     public int[] maxSubsequence(int[] nums, int k) {
-        PriorityQueue<int[]>pq=new PriorityQueue<>(new Comparator<>(){
-            public int compare(int a[],int b[]){
-                return a[1]-b[1];
-            }
-        });
-         PriorityQueue<int[]>pq1=new PriorityQueue<>(new Comparator<>(){
-            public int compare(int a[],int b[]){
-                return a[0]-b[0];
-            }
-        });
+        PriorityQueue<int[]>pq=new PriorityQueue<>((a,b)->a[1]-b[1]);
+        PriorityQueue<int[]>pq1=new PriorityQueue<>((a,b)->a[0]-b[0]);
         for(int i=0;i<nums.length;i++){
             pq.add(new int[]{i,nums[i]});
             if(pq.size()>k){

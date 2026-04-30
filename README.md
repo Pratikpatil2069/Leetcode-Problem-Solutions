@@ -103,6 +103,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -190,6 +191,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
@@ -297,6 +299,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
+| [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |

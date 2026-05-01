@@ -112,6 +112,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
@@ -165,6 +166,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -218,6 +221,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
@@ -239,6 +243,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -310,6 +315,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |

@@ -121,6 +121,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
@@ -185,6 +186,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -227,6 +229,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Matrix
@@ -235,6 +238,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
+| [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -324,6 +328,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Ordered Set
 | Problem Name | Difficulty |

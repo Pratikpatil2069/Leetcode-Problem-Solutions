@@ -68,6 +68,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
@@ -102,6 +103,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -198,6 +200,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -221,6 +224,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
@@ -314,6 +318,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
@@ -356,4 +361,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0100-same-tree/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 <!---LeetCode Topics End-->

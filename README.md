@@ -95,6 +95,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
@@ -142,6 +143,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
@@ -201,6 +203,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
@@ -228,6 +231,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -269,6 +273,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -323,6 +328,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |

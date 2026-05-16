@@ -88,6 +88,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0057-insert-interval](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
 | [0136-single-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0136-single-number/) | Easy |

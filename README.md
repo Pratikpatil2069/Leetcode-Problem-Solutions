@@ -21,6 +21,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Design
 | Problem Name | Difficulty |
@@ -54,6 +55,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -221,6 +223,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
@@ -325,6 +328,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |

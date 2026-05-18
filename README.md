@@ -50,6 +50,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
@@ -217,6 +218,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0860-lemonade-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
@@ -290,6 +292,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
+| [1221-split-a-string-in-balanced-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |

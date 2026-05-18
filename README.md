@@ -73,6 +73,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -221,6 +222,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -249,6 +251,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
+| [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |

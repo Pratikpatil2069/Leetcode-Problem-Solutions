@@ -57,6 +57,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -162,6 +163,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 ## Monotonic Stack
@@ -228,6 +230,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
+| [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |

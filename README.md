@@ -139,6 +139,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
@@ -239,6 +240,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |

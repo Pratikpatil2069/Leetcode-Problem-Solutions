@@ -8,9 +8,7 @@ class Solution {
 
             int diff = Math.abs(ch - curr);
 
-            time += Math.min(diff, 26 - diff);
-
-            time += 1; 
+            time += Math.min(diff, 26 - diff)+1;
 
             curr = ch;
         }

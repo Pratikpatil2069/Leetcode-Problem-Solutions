@@ -122,6 +122,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -233,6 +234,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
@@ -267,6 +269,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
@@ -417,4 +420,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 <!---LeetCode Topics End-->

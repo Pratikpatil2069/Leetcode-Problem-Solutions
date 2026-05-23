@@ -60,6 +60,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 ## Linked List
@@ -197,6 +198,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -246,6 +248,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
+| [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |

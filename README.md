@@ -146,6 +146,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2895-minimum-processing-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -253,6 +254,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [2895-minimum-processing-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
@@ -289,6 +291,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2895-minimum-processing-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
 ## Matrix

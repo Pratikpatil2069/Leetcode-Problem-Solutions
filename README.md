@@ -84,6 +84,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Recursion
@@ -255,6 +256,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
+| [2566-maximum-difference-by-remapping-a-digit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [2895-minimum-processing-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2895-minimum-processing-time/) | Medium |

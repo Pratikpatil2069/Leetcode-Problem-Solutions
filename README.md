@@ -134,6 +134,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
@@ -252,6 +253,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -293,6 +295,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+| [2279-maximum-bags-with-full-capacity-of-rocks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2279-maximum-bags-with-full-capacity-of-rocks/) | Medium |
 | [2335-minimum-amount-of-time-to-fill-cups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2335-minimum-amount-of-time-to-fill-cups/) | Easy |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2342-max-sum-of-a-pair-with-equal-sum-of-digits/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |

@@ -127,6 +127,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
@@ -174,6 +175,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
@@ -249,6 +251,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
+| [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |

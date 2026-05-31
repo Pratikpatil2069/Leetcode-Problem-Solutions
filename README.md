@@ -122,6 +122,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
@@ -243,6 +244,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
@@ -290,6 +292,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
+| [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |

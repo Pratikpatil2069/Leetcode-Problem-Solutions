@@ -1,47 +1,37 @@
 class Solution {
     public int myAtoi(String s) {
-          s = s.trim();
-          StringBuilder sb = new StringBuilder();
-          int ind = 0;
-        boolean flag = false;
-        if (s.length() == 0) {
+        if(s.length()==0){
             return 0;
         }
-        if (s.charAt(0) == '-' ) {
-            flag = true;
-            ind = 1;
+        s = s.trim();
+        if(s.length()==0){
+            return 0;
         }
-         if (s.charAt(0) == '+' ) {
-            ind = 1;
+        int ind = num(s, (s.charAt(0) == '-' || s.charAt(0) == '+')? 1 : 0);
+        if (ind == 0) {
+            return 0;
         }
-        for (int i = ind; i < s.length(); i++) {
-            char ch = s.charAt(i);
-            if (Character.isDigit(ch)) {
-                sb.append(ch);
-            } else {
-                break;
-            }
-        }
-        while (!sb.isEmpty()) {
-            if (sb.charAt(0) == '0') {
-                sb.deleteCharAt(0);
-            } else {
-                break;
-            }
-        }
-        if (sb.length() == 0) {
+        if(ind==1 && (s.charAt(0) == '-' || s.charAt(0) == '+') ){
             return 0;
         }
         try {
-            if (flag) {
-                return (-1) * Integer.parseInt(sb.toString());
-            } else {
-                return Integer.parseInt(sb.toString());
+            return Integer.parseInt(s.substring(0,ind));
+        } catch (NumberFormatException e) {
+            if (s.startsWith("-")) {
+                return Integer.MIN_VALUE;
             }
-
-        } catch (Exception e) {
-            return flag ? Integer.MIN_VALUE : Integer.MAX_VALUE;
+            return Integer.MAX_VALUE;
         }
+    }
 
+    public int num(String s, int left) {
+        if (left >= s.length()) {
+            return left;
+        }
+        char ch = s.charAt(left);
+        if (!Character.isDigit(ch)) {
+            return left;
+        }
+        return num(s, left + 1);
     }
 }

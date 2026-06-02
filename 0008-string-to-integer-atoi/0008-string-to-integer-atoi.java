@@ -1,19 +1,14 @@
 class Solution {
     public int myAtoi(String s) {
-        if(s.length()==0){
-            return 0;
-        }
         s = s.trim();
         if(s.length()==0){
             return 0;
         }
         int ind = num(s, (s.charAt(0) == '-' || s.charAt(0) == '+')? 1 : 0);
-        if (ind == 0) {
+        if (ind == 0 || (ind==1 && (s.charAt(0) == '-' || s.charAt(0) == '+'))) {
             return 0;
         }
-        if(ind==1 && (s.charAt(0) == '-' || s.charAt(0) == '+') ){
-            return 0;
-        }
+       
         try {
             return Integer.parseInt(s.substring(0,ind));
         } catch (NumberFormatException e) {

@@ -64,6 +64,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
+| [3110-score-of-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Linked List

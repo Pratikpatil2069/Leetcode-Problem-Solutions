@@ -66,6 +66,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
@@ -162,6 +163,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2656-maximum-sum-with-exactly-k-elements/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -367,6 +369,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
+| [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 ## Bit Manipulation

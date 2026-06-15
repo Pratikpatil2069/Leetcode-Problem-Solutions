@@ -74,6 +74,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [3110-score-of-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -206,6 +207,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
+| [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |

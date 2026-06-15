@@ -58,6 +58,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1832-check-if-the-sentence-is-pangram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1832-check-if-the-sentence-is-pangram/) | Easy |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
@@ -270,6 +271,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
+| [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |

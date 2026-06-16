@@ -4,7 +4,7 @@ class Solution {
         for(int i=1;i<n;i++){
             StringBuilder inverted = new StringBuilder();
             for (char bit : s1.toCharArray()) {
-                char invertedBit = (bit == '0') ? '1' : '0';  // Correct inversion
+                char invertedBit = (bit == '0') ? '1' : '0';  
                 inverted.append(invertedBit);
             }
             String reversed = new StringBuilder(inverted).reverse().toString();

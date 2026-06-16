@@ -35,6 +35,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1845-seat-reservation-manager](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +80,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
+| [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3941-password-strength](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3941-password-strength/) | Medium |
@@ -190,6 +192,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
+| [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -218,6 +221,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
 | [3941-password-strength](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3941-password-strength/) | Medium |
@@ -367,6 +371,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
+| [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |

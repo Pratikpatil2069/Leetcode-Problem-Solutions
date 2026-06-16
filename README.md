@@ -50,6 +50,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -95,6 +96,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
@@ -256,6 +258,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |

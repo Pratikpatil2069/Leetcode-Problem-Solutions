@@ -77,6 +77,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2586-count-the-number-of-vowel-strings-in-range](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2586-count-the-number-of-vowel-strings-in-range/) | Easy |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3110-score-of-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3110-score-of-a-string/) | Easy |
 | [3228-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3228-maximum-number-of-operations-to-move-ones-to-the-end/) | Medium |
@@ -221,6 +222,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2405-optimal-partition-of-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2405-optimal-partition-of-string/) | Medium |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
@@ -358,6 +360,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 | [2895-minimum-processing-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2895-minimum-processing-time/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3074-apple-redistribution-into-boxes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3074-apple-redistribution-into-boxes/) | Easy |

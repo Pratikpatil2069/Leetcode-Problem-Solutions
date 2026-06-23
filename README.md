@@ -72,6 +72,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
@@ -171,6 +172,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2099-find-subsequence-of-length-k-with-the-largest-sum/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
+| [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2225-find-players-with-zero-or-one-losses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2225-find-players-with-zero-or-one-losses/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
 | [2275-largest-combination-with-bitwise-and-greater-than-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2275-largest-combination-with-bitwise-and-greater-than-zero/) | Medium |
@@ -263,6 +265,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0917-reverse-only-letters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -283,6 +286,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |

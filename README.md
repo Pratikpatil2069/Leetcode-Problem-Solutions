@@ -105,6 +105,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
@@ -215,6 +216,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -261,6 +263,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0005-longest-palindromic-substring](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |

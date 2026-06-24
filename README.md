@@ -18,6 +18,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2104-sum-of-subarray-ranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2104-sum-of-subarray-ranges/) | Medium |
@@ -60,6 +61,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0917-reverse-only-letters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1081-smallest-subsequence-of-distinct-characters/) | Medium |
 | [1221-split-a-string-in-balanced-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1221-split-a-string-in-balanced-strings/) | Easy |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1286-iterator-for-combination](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1286-iterator-for-combination/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |

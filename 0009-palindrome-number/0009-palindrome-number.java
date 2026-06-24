@@ -6,9 +6,6 @@ class Solution {
             dup=dup*10+x%10;
             x=x/10;
         }
-        if(ori==dup){
-            return true;
-        }
-        return false;
+        return ori==dup;
     }
 }

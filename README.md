@@ -150,6 +150,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0137-single-number-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -425,6 +426,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |

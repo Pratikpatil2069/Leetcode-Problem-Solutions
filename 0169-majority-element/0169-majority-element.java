@@ -5,7 +5,8 @@ class Solution {
        for(int val:nums){
         if(count==0){
             num=val;
-        }
+            count++;
+        }else
         if(val==num){
             count++;
         }else{

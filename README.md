@@ -74,6 +74,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -365,6 +366,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2401-longest-nice-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2401-longest-nice-subarray/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Sorting
@@ -421,6 +423,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Prefix Sum
@@ -430,6 +433,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |

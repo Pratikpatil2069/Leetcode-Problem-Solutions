@@ -139,6 +139,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0056-merge-intervals/) | Medium |
 | [0057-insert-interval](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0057-insert-interval/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
@@ -283,6 +284,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
@@ -485,6 +487,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

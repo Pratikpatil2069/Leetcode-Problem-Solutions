@@ -66,6 +66,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1358-number-of-substrings-containing-all-three-characters/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1447-simplified-fractions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
@@ -112,6 +113,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
+| [1447-simplified-fractions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
@@ -585,4 +587,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1286-iterator-for-combination](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1286-iterator-for-combination/) | Medium |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1447-simplified-fractions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1447-simplified-fractions/) | Medium |
 <!---LeetCode Topics End-->

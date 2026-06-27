@@ -143,6 +143,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
+| [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
@@ -430,6 +431,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |

@@ -168,6 +168,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0739-daily-temperatures](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0811-subdomain-visit-count](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [0860-lemonade-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0860-lemonade-change/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
@@ -434,6 +435,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |

@@ -78,6 +78,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1974-minimum-time-to-type-word-using-special-typewriter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1974-minimum-time-to-type-word-using-special-typewriter/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2182-construct-string-with-repeat-limit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2182-construct-string-with-repeat-limit/) | Medium |
 | [2255-count-prefixes-of-a-given-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2255-count-prefixes-of-a-given-string/) | Easy |
@@ -313,6 +314,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
+| [2075-decode-the-slanted-ciphertext](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |

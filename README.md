@@ -160,6 +160,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0169-majority-element](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
@@ -427,6 +428,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
@@ -438,6 +440,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0704-binary-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -521,6 +524,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0004-median-of-two-sorted-arrays](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |

@@ -111,6 +111,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0009-palindrome-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0009-palindrome-number/) | Easy |
 | [0013-roman-to-integer](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0013-roman-to-integer/) | Easy |
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
+| [0048-rotate-image](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
@@ -146,6 +147,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
+| [0048-rotate-image](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0056-merge-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0056-merge-intervals/) | Medium |
@@ -428,6 +430,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |

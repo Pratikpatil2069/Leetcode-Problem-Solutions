@@ -11,6 +11,7 @@ class Solution {
             for(int j=0;j<strs.length;j++){
                 if(!strs[j].startsWith(s)){
                     flag=true;
+                    break;
                 }   
             }
             if(flag){

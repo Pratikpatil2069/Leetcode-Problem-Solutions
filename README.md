@@ -132,6 +132,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -141,6 +142,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -332,6 +334,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2558-take-gifts-from-the-richest-pile](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2558-take-gifts-from-the-richest-pile/) | Easy |
 | [2593-find-score-of-an-array-after-marking-all-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2593-find-score-of-an-array-after-marking-all-elements/) | Medium |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Data Stream
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -509,6 +512,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [3011-find-if-array-can-be-sorted](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3011-find-if-array-can-be-sorted/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 | [3309-maximum-possible-number-by-binary-concatenation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3309-maximum-possible-number-by-binary-concatenation/) | Medium |
 | [3315-construct-the-minimum-bitwise-array-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3315-construct-the-minimum-bitwise-array-ii/) | Medium |
 | [3827-count-monobit-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3827-count-monobit-integers/) | Easy |

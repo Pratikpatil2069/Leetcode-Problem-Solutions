@@ -105,6 +105,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +140,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0002-add-two-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |

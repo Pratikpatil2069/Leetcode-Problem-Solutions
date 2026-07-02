@@ -599,6 +599,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0100-same-tree/) | Easy |
+| [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -624,6 +625,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 ## Iterator
 | Problem Name | Difficulty |

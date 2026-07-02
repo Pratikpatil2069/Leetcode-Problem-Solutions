@@ -10,21 +10,17 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        ListNode temp=null;
-        ListNode ptr=head;
-         
-        
-        return reverse(temp,ptr);  
+        return reverse(head,null);
     }
-    private ListNode reverse(ListNode temp,ListNode ptr){
-        if(ptr==null){
+    private ListNode reverse(ListNode head,ListNode temp){
+        if(head==null){
             return temp;
         }
-        ListNode ptr1=ptr.next;
-        ptr.next=temp;
-        temp=ptr;
-        ptr=ptr1;
-        return reverse(temp,ptr);
+        ListNode ptr=head.next;
+        head.next=temp;
+        temp=head;
+        return reverse(ptr,temp);
     }
+    
       
 }

@@ -156,6 +156,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0014-longest-common-prefix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0014-longest-common-prefix/) | Easy |
 | [0015-3sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0015-3sum/) | Medium |
 | [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
+| [0039-combination-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0046-permutations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0046-permutations/) | Medium |
 | [0048-rotate-image](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0048-rotate-image/) | Medium |
@@ -533,6 +534,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0039-combination-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
 | [1286-iterator-for-combination](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1286-iterator-for-combination/) | Medium |

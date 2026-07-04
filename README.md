@@ -645,4 +645,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1447-simplified-fractions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1447-simplified-fractions/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2356-number-of-unique-subjects-taught-by-each-teacher/) | Easy |
 <!---LeetCode Topics End-->

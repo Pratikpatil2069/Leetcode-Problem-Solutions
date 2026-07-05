@@ -650,6 +650,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0595-big-countries/) | Easy |
+| [1148-article-views-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |
 | [1741-find-total-time-spent-by-each-employee](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1741-find-total-time-spent-by-each-employee/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1757-recyclable-and-low-fat-products/) | Easy |

@@ -649,6 +649,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0197-rising-temperature](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0577-employee-bonus](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0620-not-boring-movies/) | Easy |

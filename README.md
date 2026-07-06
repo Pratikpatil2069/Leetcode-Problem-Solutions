@@ -650,6 +650,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0584-find-customer-referee](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0584-find-customer-referee/) | Easy |
 | [0595-big-countries](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0595-big-countries/) | Easy |
+| [0620-not-boring-movies](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1148-article-views-i/) | Easy |
 | [1683-invalid-tweets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |

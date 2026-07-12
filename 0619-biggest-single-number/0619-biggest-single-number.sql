@@ -1,0 +1,4 @@
+# Write your MySQL query statement below
+SELECT MAX(NUM) AS NUM
+FROM MyNumbers 
+WHERE NUM IN (SELECT NUM FROM MyNumbers GROUP BY NUM HAVING COUNT(NUM)=1);

@@ -11,6 +11,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0155-min-stack](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -109,6 +110,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0021-merge-two-sorted-lists](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,6 +148,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -309,6 +312,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0075-sort-colors](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0917-reverse-only-letters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |

@@ -678,6 +678,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1211-queries-quality-and-percentage](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1211-queries-quality-and-percentage/) | Easy |
 | [1251-average-selling-price](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1251-average-selling-price/) | Easy |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
+| [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1581-customer-who-visited-but-did-not-make-any-transactions/) | Easy |
 | [1633-percentage-of-users-attended-a-contest](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1633-percentage-of-users-attended-a-contest/) | Easy |
 | [1683-invalid-tweets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1683-invalid-tweets/) | Easy |
 | [1693-daily-leads-and-partners](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1693-daily-leads-and-partners/) | Easy |

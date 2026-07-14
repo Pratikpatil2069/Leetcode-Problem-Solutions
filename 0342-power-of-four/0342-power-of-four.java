@@ -1,10 +1,9 @@
 class Solution {
     public boolean isPowerOfFour(int n) {
-        if( n > 0 && (n & (n - 1)) == 0){
-            if(Integer.numberOfTrailingZeros(n)%2==0){
-                return true;
-            }
+        if(n<=0){
+            return false;
         }
-    return false;
+        double x= Math.log(n)/Math.log(4);
+        return x==(int)x;
     }
 }

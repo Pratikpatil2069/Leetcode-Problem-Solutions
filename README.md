@@ -124,6 +124,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
@@ -151,6 +152,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
@@ -515,6 +517,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0137-single-number-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |

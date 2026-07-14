@@ -124,6 +124,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
 | [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
+| [0326-power-of-three](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
@@ -152,6 +153,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0326-power-of-three](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |

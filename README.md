@@ -45,6 +45,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## String
 | Problem Name | Difficulty |
@@ -133,6 +134,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1753-maximum-score-from-removing-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1753-maximum-score-from-removing-stones/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
@@ -156,6 +158,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0326-power-of-three](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |
 | [3304-find-the-k-th-character-in-string-game-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3304-find-the-k-th-character-in-string-game-i/) | Easy |
 ## Array
@@ -214,6 +217,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
 | [1734-decode-xored-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1734-decode-xored-permutation/) | Medium |
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
@@ -348,6 +352,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [2075-decode-the-slanted-ciphertext](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2075-decode-the-slanted-ciphertext/) | Medium |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |

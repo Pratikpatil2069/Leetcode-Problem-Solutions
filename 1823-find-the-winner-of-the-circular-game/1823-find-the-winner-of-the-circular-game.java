@@ -4,16 +4,15 @@ class Solution {
         for(int i=1;i<=n;i++){
             list.add(i);
         }
-         int ind=-1;
-        while(list.size()!=1){
-            int count=k;
-            while(count!=0){
-                ind=(ind+1)%list.size();
-                count--;
-            }
-            list.remove(ind);
-            ind=(ind-1)%list.size();
+        return winner(list,k,0);
+    }
+    private int winner(ArrayList<Integer>list,int k,int i){
+        if(list.size()==1){
+            return list.get(0);
         }
-        return list.get(0);
+        i=(i+k-1)%list.size();
+        list.remove(i);
+        return winner(list,k,i);
+
     }
 }

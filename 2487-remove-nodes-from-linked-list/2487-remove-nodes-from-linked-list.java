@@ -10,32 +10,17 @@
  */
 class Solution {
     public ListNode removeNodes(ListNode head) {
-        if(head==null || head.next==null){
+        return remove(head);
+    }
+    private ListNode remove(ListNode head){
+        if(head==null){
+            return null;
+        }
+        head.next=remove(head.next);
+        if(head.next!=null && head.val<head.next.val){
+            return head.next;
+        }else{
             return head;
         }
-        ListNode temp=head;
-        Stack<Integer>stack=new Stack<>();
-            while(temp!=null){
-            if(stack.isEmpty() || temp.val<=stack.peek()){
-                stack.push(temp.val);
-                temp=temp.next;
-            }else{
-                if(stack.isEmpty()){
-                    stack.push(temp.val);
-                    temp=temp.next;
-                }else{
-                stack.pop();
-                }
-            }
-        }
-        head=null;
-        while(!stack.isEmpty()){
-            int val=stack.peek();
-            ListNode node=new ListNode(val);
-            node.next=head;
-            head=node;
-            stack.pop();
-        }
-        return head;
     }
 }

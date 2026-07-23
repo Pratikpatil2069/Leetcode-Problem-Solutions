@@ -678,6 +678,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0610-triangle-judgement](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0610-triangle-judgement/) | Easy |
 | [0619-biggest-single-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0619-biggest-single-number/) | Easy |
 | [0620-not-boring-movies](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0620-not-boring-movies/) | Easy |
+| [0627-swap-sex-of-employees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
 | [1075-project-employees-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1075-project-employees-i/) | Easy |

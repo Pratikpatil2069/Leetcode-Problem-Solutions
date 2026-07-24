@@ -12,6 +12,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0394-decode-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
@@ -61,6 +62,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0022-generate-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
+| [0394-decode-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -161,6 +163,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0326-power-of-three](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0326-power-of-three/) | Easy |
 | [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
+| [0394-decode-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0394-decode-string/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1922-count-good-numbers/) | Medium |

@@ -1,5 +1,5 @@
 # Write your MySQL query statement below
-SELECT S.student_id ,S.student_name ,SUB.subject_name ,IFNULL(COUNT(E.student_id),0) AS  attended_exams
+SELECT S.student_id ,S.student_name ,SUB.subject_name ,CASE WHEN COUNT(E.student_id) IS NULL THEN 0 ELSE COUNT(E.STUDENT_ID) END AS  attended_exams
 FROM Students S
 CROSS JOIN Subjects SUB
 LEFT JOIN Examinations E

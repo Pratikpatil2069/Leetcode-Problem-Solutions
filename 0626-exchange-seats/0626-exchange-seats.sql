@@ -1,7 +1,7 @@
 SELECT s1.id,
        CASE
            WHEN s1.id % 2 = 1 THEN
-               COALESCE(
+               IFNULL(
                    (SELECT s2.student
                     FROM Seat s2
                     WHERE s2.id = s1.id + 1),

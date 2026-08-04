@@ -679,6 +679,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0180-consecutive-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0180-consecutive-numbers/) | Medium |
 | [0196-delete-duplicate-emails](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0196-delete-duplicate-emails/) | Easy |
 | [0197-rising-temperature](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0197-rising-temperature/) | Easy |
+| [0550-game-play-analysis-iv](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0550-game-play-analysis-iv/) | Medium |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0570-managers-with-at-least-5-direct-reports/) | Medium |
 | [0577-employee-bonus](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0577-employee-bonus/) | Easy |
 | [0584-find-customer-referee](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0584-find-customer-referee/) | Easy |

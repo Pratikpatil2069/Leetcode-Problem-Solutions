@@ -692,6 +692,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0627-swap-sex-of-employees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0627-swap-sex-of-employees/) | Easy |
 | [1045-customers-who-bought-all-products](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1045-customers-who-bought-all-products/) | Medium |
 | [1068-product-sales-analysis-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1068-product-sales-analysis-i/) | Easy |
+| [1070-product-sales-analysis-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1070-product-sales-analysis-iii/) | Medium |
 | [1075-project-employees-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1075-project-employees-i/) | Easy |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1141-user-activity-for-the-past-30-days-i/) | Easy |
 | [1148-article-views-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1148-article-views-i/) | Easy |

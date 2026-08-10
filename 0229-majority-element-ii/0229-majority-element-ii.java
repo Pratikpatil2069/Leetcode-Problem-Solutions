@@ -1,46 +1,58 @@
+import java.util.*;
+
 class Solution {
     public List<Integer> majorityElement(int[] nums) {
-       
-        List<Integer>list=new ArrayList<>();
-         if(nums.length==1){
-            list.add(nums[0]);
-            return list;
-        }
-        if(nums.length==2){
-            list.add(nums[0]);
-            if(!list.contains(nums[1])){
-                list.add(nums[1]);
+
+        int candidate1 = 0;
+        int candidate2 = 0;
+
+        int count1 = 0;
+        int count2 = 0;
+
+        for (int num : nums) {
+
+            if (num == candidate1) {
+                count1++;
             }
-            return list;
-        }
-        Arrays.sort(nums);
-        int count=1;
-        for(int i=0;i<nums.length-1;i++){
-            if(nums[i]==nums[i+1]){
-                count++;
-                if(count>nums.length/3){
-                    list.add(nums[i]);
-                    break;
-                }
-            }else{
-                count=1;
+            else if (num == candidate2) {
+                count2++;
             }
-        }
-        count=1;
-         for(int i=nums.length-1;i>0;i--){
-            if(nums[i]==nums[i-1]){
-                count++;
-                if(count>nums.length/3){
-                    list.add(nums[i]);
-                    break;
-                }
-            }else{
-                count=1;
+            else if (count1 == 0) {
+                candidate1 = num;
+                count1 = 1;
+            }
+            else if (count2 == 0) {
+                candidate2 = num;
+                count2 = 1;
+            }
+            else {
+                count1--;
+                count2--;
             }
         }
-        if( list.size()==2&&(int)list.get(0)==(int)list.get(1)){
-            list.remove(0);
+
+        count1 = 0;
+        count2 = 0;
+
+        for (int num : nums) {
+            if (num == candidate1) {
+                count1++;
+            }
+            else if (num == candidate2) {
+                count2++;
+            }
         }
-        return list;
+
+        List<Integer> result = new ArrayList<>();
+
+        if (count1 > nums.length / 3) {
+            result.add(candidate1);
+        }
+
+        if (count2 > nums.length / 3) {
+            result.add(candidate2);
+        }
+
+        return result;
     }
 }

@@ -1,45 +1,25 @@
 class Solution {
     public List<List<Integer>> generate(int numRows) {
-        List<List<Integer>>list=new ArrayList<>();
-
-        if(numRows==1){
-            ArrayList<Integer>list1=new ArrayList<>();
-            list1.add(1);
-            list.add(list1);
-            return list;
-        }else if(numRows==2){
-            ArrayList<Integer>list1=new ArrayList<>();
-            ArrayList<Integer>list2=new ArrayList<>();
-            list1.add(1);
-            list2.add(1);
-            list2.add(1);
-            list.add(list1);
-            list.add(list2);
-            return list;
-        }else{
-            ArrayList<Integer>list1=new ArrayList<>();
-            ArrayList<Integer>list2=new ArrayList<>();
-            list1.add(1);
-            list2.add(1);
-            list2.add(1);
-            list.add(list1);
-            list.add(list2);
-            for(int i=1;i<=numRows-2;i++){
-                 ArrayList<Integer>list3=new ArrayList<>();
-                 list3.add(1);
-                 int sum=0;
-                for(int j=0;j<list2.size()-1;j++){
-                    sum=sum+list2.get(j);
-                    sum+=list2.get(j+1);
-                    list3.add(sum);
-                    sum=0;
+        List<List<Integer>>ans=new ArrayList<>();
+        int n=numRows;
+        while(n>0){
+            List<Integer>list=new ArrayList<>();
+            if(numRows==n){
+                list.add(1);
+            }else if(numRows-1==n){
+                list.add(1);
+                list.add(1);
+            }else{
+                List<Integer>preList=ans.get(ans.size()-1);
+                list.add(1);
+                for(int i=0;i<preList.size()-1;i++){
+                    list.add(preList.get(i)+preList.get(i+1));
                 }
-                list3.add(1);
-                list.add(list3);
-                list2=list3;
+                list.add(1);
             }
-            
+            n--;
+            ans.add(list);
         }
-        return list;
+        return ans;
     }
 }

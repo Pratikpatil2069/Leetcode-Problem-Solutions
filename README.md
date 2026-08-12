@@ -202,6 +202,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0260-single-number-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0260-single-number-iii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -353,6 +354,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0063-unique-paths-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
@@ -384,6 +386,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -496,6 +499,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0035-search-insert-position](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0035-search-insert-position/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0704-binary-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0852-peak-index-in-a-mountain-array/) | Medium |
@@ -507,6 +511,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1930-unique-length-3-palindromic-subsequences](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1930-unique-length-3-palindromic-subsequences/) | Medium |

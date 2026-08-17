@@ -60,6 +60,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0038-count-and-say](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0394-decode-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0394-decode-string/) | Medium |

@@ -199,6 +199,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0136-single-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0136-single-number/) | Easy |
 | [0137-single-number-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0169-majority-element](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0169-majority-element/) | Easy |
+| [0216-combination-sum-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0217-contains-duplicate](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0229-majority-element-ii/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -581,6 +582,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0040-combination-sum-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
+| [0216-combination-sum-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [1286-iterator-for-combination](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1286-iterator-for-combination/) | Medium |
 | [2375-construct-smallest-number-from-di-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Enumeration

@@ -15,9 +15,9 @@ class Solution {
         }
         
         for(int i=ind;i<candidates.length;i++){
-            if(i>ind && candidates[i]==candidates[i-1]){
-                continue;
-            }
+            // if(i>ind && candidates[i]==candidates[i-1]){
+            //     continue;
+            // }
             if(target<candidates[i] || list.size()>size){
                 break;
             }

@@ -9,6 +9,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0020-valid-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0155-min-stack](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
@@ -197,6 +198,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0075-sort-colors](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
 | [0118-pascals-triangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
@@ -327,6 +329,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+| [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0402-remove-k-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
@@ -365,6 +368,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
@@ -503,6 +507,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0063-unique-paths-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |

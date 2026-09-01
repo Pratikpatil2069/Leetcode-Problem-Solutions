@@ -38,6 +38,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -123,6 +124,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0203-remove-linked-list-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0203-remove-linked-list-elements/) | Easy |
 | [0206-reverse-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0234-palindrome-linked-list/) | Easy |
+| [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [2487-remove-nodes-from-linked-list](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2487-remove-nodes-from-linked-list/) | Medium |
 ## Math
 | Problem Name | Difficulty |
@@ -296,6 +298,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0217-contains-duplicate](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0229-majority-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0229-majority-element-ii/) | Medium |
+| [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
@@ -622,6 +625,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |

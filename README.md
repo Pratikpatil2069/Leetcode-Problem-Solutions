@@ -18,6 +18,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0402-remove-k-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
 | [0739-daily-temperatures](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
@@ -72,6 +73,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
 | [0811-subdomain-visit-count](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0811-subdomain-visit-count/) | Medium |
@@ -379,6 +381,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
 ## Simulation
@@ -414,6 +417,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
+| [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0846-hand-of-straights](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0860-lemonade-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0860-lemonade-change/) | Easy |
@@ -779,4 +783,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 <!---LeetCode Topics End-->

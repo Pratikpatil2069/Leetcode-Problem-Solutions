@@ -379,6 +379,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -668,6 +669,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -683,6 +685,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -692,6 +695,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0100-same-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -800,5 +804,6 @@ The Leetcode Problems Solutions Which are solve By me.
 ## DP on Trees
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->

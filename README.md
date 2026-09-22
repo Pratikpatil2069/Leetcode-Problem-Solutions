@@ -831,9 +831,11 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 <!---LeetCode Topics End-->

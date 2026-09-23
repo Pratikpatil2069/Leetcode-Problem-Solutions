@@ -711,6 +711,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -722,6 +723,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -833,6 +835,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
+| [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |

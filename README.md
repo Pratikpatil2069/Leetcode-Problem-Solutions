@@ -713,6 +713,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -723,6 +724,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -826,6 +828,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -833,6 +836,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
+| [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |

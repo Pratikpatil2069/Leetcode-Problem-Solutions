@@ -241,6 +241,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1423-maximum-points-you-can-obtain-from-cards/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1733-minimum-number-of-people-to-teach](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1733-minimum-number-of-people-to-teach/) | Medium |
@@ -433,6 +434,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
 | [1529-minimum-suffix-flips](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1529-minimum-suffix-flips/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1689-partitioning-into-minimum-number-of-deci-binary-numbers/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
@@ -495,6 +497,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
+| [1665-minimum-initial-energy-to-finish-tasks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1665-minimum-initial-energy-to-finish-tasks/) | Hard |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
 | [1710-maximum-units-on-a-truck](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1710-maximum-units-on-a-truck/) | Easy |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |

@@ -52,6 +52,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## String
@@ -234,6 +235,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
@@ -395,6 +397,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0735-asteroid-collision](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0735-asteroid-collision/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one/) | Medium |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1545-find-kth-bit-in-nth-binary-string/) | Medium |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1680-concatenation-of-consecutive-binary-numbers/) | Medium |
@@ -494,6 +497,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
 | [0846-hand-of-straights](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
+| [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |

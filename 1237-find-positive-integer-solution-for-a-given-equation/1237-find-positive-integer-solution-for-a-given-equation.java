@@ -1,32 +1,20 @@
 class Solution {
     public List<List<Integer>> findSolution(CustomFunction customfunction, int z) {
 
-        List<List<Integer>> ans = new ArrayList<>();
-
-        for (int x = 1; x <= 1000; x++) {
-
-            int low = 1;
-            int high = 1000;
-
-            while (low <= high) {
-
-                int mid = low + (high - low) / 2;
-
-                int value = customfunction.f(x, mid);
-
-                if (value == z) {
-                    ans.add(Arrays.asList(x, mid));
-                    break;
-                } 
-                else if (value < z) {
-                    low = mid + 1;
-                } 
-                else {
-                    high = mid - 1;
-                }
+        List<List<Integer>> res = new ArrayList<>();
+        int x = 1, y = 1000;
+        while (x <= 1000 && y >= 1) {
+            int val = customfunction.f(x, y);
+            if (val == z) {
+                res.add(Arrays.asList(x, y));
+                x++;
+                y--;
+            } else if (val < z) {
+                x++;
+            } else {
+                y--;
             }
         }
-
-        return ans;
+        return res;
     }
 }

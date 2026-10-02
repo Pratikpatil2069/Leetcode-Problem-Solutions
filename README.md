@@ -156,6 +156,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2160-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2160-minimum-sum-of-four-digit-number-after-splitting-digits/) | Easy |
 | [2317-maximum-xor-after-operations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2317-maximum-xor-after-operations/) | Medium |
 | [2358-maximum-number-of-groups-entering-a-competition](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2358-maximum-number-of-groups-entering-a-competition/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2527-find-xor-beauty-of-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2527-find-xor-beauty-of-array/) | Medium |
 | [2566-maximum-difference-by-remapping-a-digit](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2566-maximum-difference-by-remapping-a-digit/) | Easy |
 | [2864-maximum-odd-binary-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2864-maximum-odd-binary-number/) | Easy |
@@ -372,6 +373,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
+| [2396-strictly-palindromic-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2486-append-characters-to-string-to-make-subsequence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2486-append-characters-to-string-to-make-subsequence/) | Medium |
@@ -616,6 +618,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Brainteaser
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [2396-strictly-palindromic-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
 ## Backtracking

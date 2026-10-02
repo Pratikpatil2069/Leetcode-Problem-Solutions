@@ -253,6 +253,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1792-maximum-average-pass-ratio](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1792-maximum-average-pass-ratio/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1833-maximum-ice-cream-bars](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1833-maximum-ice-cream-bars/) | Medium |
+| [1861-rotating-the-box](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1899-merge-triplets-to-form-target-triplet/) | Medium |
 | [1920-build-array-from-permutation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1962-remove-stones-to-minimize-the-total](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1962-remove-stones-to-minimize-the-total/) | Medium |
@@ -371,6 +372,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0917-reverse-only-letters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0917-reverse-only-letters/) | Easy |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1455-check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/) | Easy |
+| [1861-rotating-the-box](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2000-reverse-prefix-of-word](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2000-reverse-prefix-of-word/) | Easy |
 | [2109-adding-spaces-to-a-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2109-adding-spaces-to-a-string/) | Medium |
 | [2396-strictly-palindromic-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2396-strictly-palindromic-number/) | Medium |
@@ -537,6 +539,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1861-rotating-the-box](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1861-rotating-the-box/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |

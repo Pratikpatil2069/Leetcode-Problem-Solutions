@@ -274,6 +274,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2410-maximum-matching-of-players-with-trainers/) | Medium |
 | [2419-longest-subarray-with-maximum-bitwise-and](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2419-longest-subarray-with-maximum-bitwise-and/) | Medium |
 | [2425-bitwise-xor-of-all-pairings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2425-bitwise-xor-of-all-pairings/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2452-words-within-two-edits-of-dictionary](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2452-words-within-two-edits-of-dictionary/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2506-count-pairs-of-similar-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2506-count-pairs-of-similar-strings/) | Easy |
@@ -540,6 +541,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1861-rotating-the-box](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1861-rotating-the-box/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [2500-delete-greatest-value-in-each-row](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2500-delete-greatest-value-in-each-row/) | Easy |
 | [2679-sum-in-a-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2679-sum-in-a-matrix/) | Medium |
 | [3462-maximum-sum-with-at-most-k-elements](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3462-maximum-sum-with-at-most-k-elements/) | Medium |
@@ -571,6 +573,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2024-maximize-the-confusion-of-an-exam/) | Medium |
 | [2391-minimum-amount-of-time-to-collect-garbage](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2391-minimum-amount-of-time-to-collect-garbage/) | Medium |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2406-divide-intervals-into-minimum-number-of-groups/) | Medium |
+| [2428-maximum-sum-of-an-hourglass](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2428-maximum-sum-of-an-hourglass/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Counting
 | Problem Name | Difficulty |

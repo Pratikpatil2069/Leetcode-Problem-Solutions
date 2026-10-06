@@ -49,6 +49,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [1845-seat-reservation-manager](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1845-seat-reservation-manager/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [3484-design-spreadsheet](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3484-design-spreadsheet/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,6 +58,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -344,6 +346,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [3545-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3545-minimum-deletions-for-at-most-k-distinct-characters/) | Easy |
 | [3668-restore-finishing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3668-restore-finishing-order/) | Easy |
 | [3760-maximum-substrings-with-distinct-start](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3760-maximum-substrings-with-distinct-start/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3829-design-ride-sharing-system/) | Medium |
 | [3941-password-strength](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3941-password-strength/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -429,6 +432,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
+| [3829-design-ride-sharing-system](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3829-design-ride-sharing-system/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |

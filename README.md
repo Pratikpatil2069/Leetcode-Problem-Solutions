@@ -149,6 +149,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0342-power-of-four](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0342-power-of-four/) | Easy |
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
 | [1323-maximum-69-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1323-maximum-69-number/) | Easy |
 | [1447-simplified-fractions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1447-simplified-fractions/) | Medium |
@@ -243,6 +244,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0904-fruit-into-baskets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1004-max-consecutive-ones-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
@@ -517,6 +519,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0846-hand-of-straights](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -664,6 +667,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
 | [0169-majority-element](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -672,6 +676,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1686-stone-game-vi](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1686-stone-game-vi/) | Medium |
@@ -901,4 +906,16 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1237-find-positive-integer-solution-for-a-given-equation](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1237-find-positive-integer-solution-for-a-given-equation/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## K-D Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 <!---LeetCode Topics End-->

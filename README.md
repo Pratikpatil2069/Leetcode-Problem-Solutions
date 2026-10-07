@@ -42,6 +42,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0225-implement-stack-using-queues](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [0901-online-stock-span](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0901-online-stock-span/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -77,6 +78,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0402-remove-k-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0402-remove-k-digits/) | Medium |
 | [0415-add-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0415-add-strings/) | Easy |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
+| [0535-encode-and-decode-tinyurl](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0537-complex-number-multiplication](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0537-complex-number-multiplication/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
@@ -320,6 +322,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0355-design-twitter](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0355-design-twitter/) | Medium |
 | [0424-longest-repeating-character-replacement](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0424-longest-repeating-character-replacement/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0496-next-greater-element-i/) | Easy |
+| [0535-encode-and-decode-tinyurl](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 | [0621-task-scheduler](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0621-task-scheduler/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0771-jewels-and-stones](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0771-jewels-and-stones/) | Easy |
@@ -918,4 +921,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0535-encode-and-decode-tinyurl/) | Medium |
 <!---LeetCode Topics End-->

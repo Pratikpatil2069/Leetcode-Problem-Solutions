@@ -1,18 +1,12 @@
 public class Codec {
     HashMap<String , String>map=new HashMap<>();
-    String str="0";
+    int id=0;
     // Encodes a URL to a shortened URL.
     public String encode(String longUrl) {
-        map.put(str,longUrl);
-        String ans=str;
-        int num=str.charAt(str.length()-1)-'0';
-        if(num==9){
-            num=0;
-        }else{
-            num++;
-        }
-        str=str+num;
-        return ans;
+        String key=String.valueOf(id);
+        map.put(key,longUrl);
+        id++;
+        return key;
     }
 
     // Decodes a shortened URL to its original URL.

@@ -73,6 +73,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0022-generate-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0038-count-and-say](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0038-count-and-say/) | Medium |
 | [0049-group-anagrams](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0049-group-anagrams/) | Medium |
+| [0079-word-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0079-word-search/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0394-decode-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0394-decode-string/) | Medium |
 | [0402-remove-k-digits](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0402-remove-k-digits/) | Medium |
@@ -212,6 +213,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0079-word-search/) | Medium |
 | [0084-largest-rectangle-in-histogram](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0084-largest-rectangle-in-histogram/) | Hard |
 | [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0088-merge-sorted-array](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0088-merge-sorted-array/) | Easy |
@@ -557,6 +559,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0063-unique-paths-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0079-word-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0079-word-search/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0240-search-a-2d-matrix-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -656,6 +659,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0040-combination-sum-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0040-combination-sum-ii/) | Medium |
 | [0046-permutations](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0046-permutations/) | Medium |
 | [0078-subsets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0078-subsets/) | Medium |
+| [0079-word-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0079-word-search/) | Medium |
 | [0216-combination-sum-iii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0216-combination-sum-iii/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1286-iterator-for-combination](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1286-iterator-for-combination/) | Medium |
@@ -751,6 +755,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0079-word-search](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0079-word-search/) | Medium |
 | [0100-same-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0100-same-tree/) | Easy |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |

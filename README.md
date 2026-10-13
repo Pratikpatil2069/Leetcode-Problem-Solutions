@@ -529,6 +529,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0950-reveal-cards-in-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0950-reveal-cards-in-increasing-order/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
 | [1403-minimum-subsequence-in-non-increasing-order](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1403-minimum-subsequence-in-non-increasing-order/) | Easy |
 | [1433-check-if-a-string-can-break-another-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1433-check-if-a-string-can-break-another-string/) | Medium |
@@ -728,6 +729,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
@@ -737,6 +739,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0701-insert-into-a-binary-search-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0701-insert-into-a-binary-search-tree/) | Medium |
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -753,6 +756,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0703-kth-largest-element-in-a-stream](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0703-kth-largest-element-in-a-stream/) | Easy |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1008-construct-binary-search-tree-from-preorder-traversal/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -767,6 +771,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
+| [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Breadth-First Search

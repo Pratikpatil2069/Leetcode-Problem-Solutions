@@ -15,36 +15,37 @@
  */
 class Solution {
     public List<List<Integer>> zigzagLevelOrder(TreeNode root) {
-        List<List<Integer>> list = new ArrayList<>();
+        List<List<Integer>>list=new ArrayList<>();
         if(root==null){
             return list;
         }
-        Deque<TreeNode> queue = new ArrayDeque<>();
-        TreeNode temp = root;
-        queue.add(temp);
-        boolean flag = true;
-        while (!queue.isEmpty()) {
-            int size = queue.size();
-            List<Integer> list1 = new ArrayList<>();
-            for (int i = 0; i < size; i++) {
-                TreeNode ptr = queue.poll();
-                if(flag){
-                    list1.add(ptr.val);
-                }else{
-                    list1.addFirst(ptr.val);
-                }
+        Queue<TreeNode>queue=new LinkedList<>();
+        queue.add(root);
+        boolean flag=true;
+        while(!queue.isEmpty()){
+            int size=queue.size();
+            
+            List<Integer>subList=new ArrayList<>();;
+            for(int i=0;i<size;i++){
+                TreeNode temp=queue.poll();
                 
-                if (ptr.left != null) {
-                    queue.add( ptr.left);
+                subList.add(temp.val);
+                if(temp.left!=null){
+                    queue.add(temp.left);
                 }
-                if (ptr.right != null) {
-                    queue.add( ptr.right);
+                if(temp.right!=null){
+                    queue.add(temp.right);
                 }
             }
-            list.add(list1);
-            flag = (flag) ? false : true;
+            if(flag){
+                flag=false;
+            }else{
+                Collections.reverse(subList);
+                flag=true;
+            }
+                
+            list.add(subList);    
         }
         return list;
-
     }
 }

@@ -16,12 +16,12 @@
 class Solution {
     public List<List<Integer>> levelOrder(TreeNode root) {
         List<List<Integer>>list=new ArrayList<>();
-        Queue<TreeNode>queue=new ArrayDeque<>();
+        Queue<TreeNode>queue=new LinkedList<>();
         if(root==null){
             return list;
         }
-        TreeNode temp=root;
-        queue.add(temp);
+        
+        queue.add(root);
         while(!queue.isEmpty()){
             int size=queue.size();
             List<Integer>list1=new ArrayList<>();

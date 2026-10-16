@@ -146,6 +146,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0029-divide-two-integers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0029-divide-two-integers/) | Medium |
 | [0048-rotate-image](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0050-powx-n](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0050-powx-n/) | Medium |
+| [0062-unique-paths](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0202-happy-number](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0202-happy-number/) | Easy |
 | [0231-power-of-two](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0231-power-of-two/) | Easy |
 | [0326-power-of-three](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0326-power-of-three/) | Easy |
@@ -406,6 +407,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0022-generate-parentheses](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0042-trapping-rain-water](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0042-trapping-rain-water/) | Hard |
 | [0053-maximum-subarray](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0063-unique-paths-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0063-unique-paths-ii/) | Medium |
 | [0085-maximal-rectangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0085-maximal-rectangle/) | Hard |
 | [0118-pascals-triangle](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0118-pascals-triangle/) | Easy |
@@ -950,4 +952,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0322-coin-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0322-coin-change/) | Medium |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->

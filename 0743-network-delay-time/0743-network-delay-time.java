@@ -23,9 +23,7 @@ class Solution {
         
         while(!pq.isEmpty()){
             int arr[]=pq.poll();
-            if(arr[0]>dist[arr[1]]){
-                continue;
-            }
+           
             ArrayList<int[]> list=graph[arr[1]];
             for(int i=0;i<list.size();i++){
                 int arr1[]=list.get(i);

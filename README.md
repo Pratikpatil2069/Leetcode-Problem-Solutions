@@ -418,6 +418,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0410-split-array-largest-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0410-split-array-largest-sum/) | Hard |
 | [0435-non-overlapping-intervals](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0435-non-overlapping-intervals/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0907-sum-of-subarray-minimums](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0907-sum-of-subarray-minimums/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [3638-maximum-balanced-shipments](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/3638-maximum-balanced-shipments/) | Medium |
@@ -693,6 +694,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0767-reorganize-string](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0767-reorganize-string/) | Medium |
 | [0786-k-th-smallest-prime-fraction](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0786-k-th-smallest-prime-fraction/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0973-k-closest-points-to-origin](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0973-k-closest-points-to-origin/) | Medium |
 | [1046-last-stone-weight](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1046-last-stone-weight/) | Easy |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -775,6 +777,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
@@ -791,6 +794,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0322-coin-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0994-rotting-oranges/) | Medium |
@@ -907,6 +911,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
@@ -923,6 +928,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 ## Dijkstra's Algorithm
 | Problem Name | Difficulty |

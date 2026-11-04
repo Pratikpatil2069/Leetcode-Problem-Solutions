@@ -337,6 +337,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0846-hand-of-straights](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0846-hand-of-straights/) | Medium |
 | [0893-groups-of-special-equivalent-strings](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0893-groups-of-special-equivalent-strings/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0904-fruit-into-baskets/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1338-reduce-array-size-to-the-half](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1338-reduce-array-size-to-the-half/) | Medium |
@@ -781,6 +782,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1261-find-elements-in-a-contaminated-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1261-find-elements-in-a-contaminated-binary-tree/) | Medium |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1305-all-elements-in-two-binary-search-trees/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -905,6 +907,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 | [2685-count-the-number-of-complete-components](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/2685-count-the-number-of-complete-components/) | Medium |
@@ -916,6 +919,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [0997-find-the-town-judge](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0997-find-the-town-judge/) | Easy |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
@@ -994,4 +998,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
+## Bipartite Graph
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 <!---LeetCode Topics End-->

@@ -777,6 +777,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
+| [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -795,6 +796,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0322-coin-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0322-coin-change/) | Medium |
+| [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
@@ -906,6 +908,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
@@ -914,6 +917,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |

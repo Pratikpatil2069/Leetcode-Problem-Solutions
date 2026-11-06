@@ -14,13 +14,7 @@ class Solution {
         int low[]=new int[n];
         int curr[]=new int[n];
         int vis[]=new int[n];
-
-        for(int i=0;i<n;i++){
-            if(vis[i]==0){
-                dfs(graph, i,-1,low, curr, vis,ans);
-            }
-        }
-        
+        dfs(graph, 0,-1,low, curr, vis,ans);
         return ans;
         
     }

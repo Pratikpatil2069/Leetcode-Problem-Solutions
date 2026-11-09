@@ -780,6 +780,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -800,6 +801,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -911,6 +913,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | ------- | ------- |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 | [1584-min-cost-to-connect-all-points](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1584-min-cost-to-connect-all-points/) | Medium |
 | [1971-find-if-path-exists-in-graph](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
@@ -921,6 +924,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0787-cheapest-flights-within-k-stops/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [0841-keys-and-rooms](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0841-keys-and-rooms/) | Medium |
@@ -1007,6 +1011,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Bipartite Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0947-most-stones-removed-with-same-row-or-column](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0947-most-stones-removed-with-same-row-or-column/) | Medium |
 ## Biconnected Component
 | Problem Name | Difficulty |
@@ -1016,4 +1021,8 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1192-critical-connections-in-a-network](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1192-critical-connections-in-a-network/) | Hard |
+## Graph Coloring
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0785-is-graph-bipartite](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0785-is-graph-bipartite/) | Medium |
 <!---LeetCode Topics End-->

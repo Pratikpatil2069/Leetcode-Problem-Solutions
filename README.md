@@ -776,6 +776,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
 | [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -800,6 +801,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0322-coin-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -926,6 +928,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -1036,6 +1039,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
+| [0210-course-schedule-ii](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |

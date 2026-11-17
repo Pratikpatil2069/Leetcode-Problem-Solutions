@@ -775,6 +775,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0110-balanced-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0110-balanced-binary-tree/) | Easy |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0124-binary-tree-maximum-path-sum/) | Hard |
+| [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0386-lexicographical-numbers](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0386-lexicographical-numbers/) | Medium |
 | [0543-diameter-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0543-diameter-of-binary-tree/) | Easy |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
@@ -798,6 +799,7 @@ The Leetcode Problems Solutions Which are solve By me.
 | [0102-binary-tree-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0103-binary-tree-zigzag-level-order-traversal/) | Medium |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0322-coin-change](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0322-coin-change/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
@@ -923,6 +925,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0547-number-of-provinces](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0684-redundant-connection/) | Medium |
 | [0743-network-delay-time](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0743-network-delay-time/) | Medium |
@@ -942,6 +945,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Directed Acyclic Graph
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0797-all-paths-from-source-to-target](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0797-all-paths-from-source-to-target/) | Medium |
 | [1557-minimum-number-of-vertices-to-reach-all-nodes](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/1557-minimum-number-of-vertices-to-reach-all-nodes/) | Medium |
 ## Shortest Path
@@ -1031,6 +1035,7 @@ The Leetcode Problems Solutions Which are solve By me.
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0207-course-schedule/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Pratikpatil2069/Leetcode-Problem-Solutions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Kosaraju's Algorithm
 | Problem Name | Difficulty |
